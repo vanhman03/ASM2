@@ -1,0 +1,60 @@
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.exe
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.deps.json
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.runtimeconfig.json
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.dll
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.pdb
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.AssemblyReference.cache
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.GeneratedMSBuildEditorConfig.editorconfig
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfoInputs.cache
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfo.cs
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.CoreCompileInputs.cache
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.dll
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\refint\ASM2-1651.dll
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.pdb
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.genruntimeconfig.cache
+E:\LapC#\ASM2-1651\ASM2-1651\ASM2-1651\obj\Debug\net6.0\ref\ASM2-1651.dll
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.exe
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.deps.json
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.runtimeconfig.json
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.dll
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\bin\Debug\net6.0\ASM2-1651.pdb
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.AssemblyReference.cache
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.GeneratedMSBuildEditorConfig.editorconfig
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfoInputs.cache
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfo.cs
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.CoreCompileInputs.cache
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.dll
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\refint\ASM2-1651.dll
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.pdb
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\ASM2-1651.genruntimeconfig.cache
+D:\1651Lap\Write ASM\ASM-1651\ASM2-1651\obj\Debug\net6.0\ref\ASM2-1651.dll
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.exe
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.deps.json
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.runtimeconfig.json
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.dll
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.pdb
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.dll
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\refint\ASM2-1651.dll
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.pdb
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Compressed\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ref\ASM2-1651.dll
+E:\1651\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.exe
+E:\1651\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.deps.json
+E:\1651\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.runtimeconfig.json
+E:\1651\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.dll
+E:\1651\ASM-1651-main\ASM2-1651\bin\Debug\net6.0\ASM2-1651.pdb
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.AssemblyReference.cache
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.GeneratedMSBuildEditorConfig.editorconfig
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfoInputs.cache
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.AssemblyInfo.cs
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.csproj.CoreCompileInputs.cache
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.dll
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\refint\ASM2-1651.dll
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.pdb
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ASM2-1651.genruntimeconfig.cache
+E:\1651\ASM-1651-main\ASM2-1651\obj\Debug\net6.0\ref\ASM2-1651.dll
